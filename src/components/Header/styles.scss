@@ -1,0 +1,28 @@
+.main {
+  background-color: #E27575;
+  color: white;
+  font-family: 'Amatic SC', sans-serif;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
+.title_header {
+  margin-left: 16px;
+}
+
+a {
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  list-style-type: none;
+  gap: 80px;
+  font-size: 25px;
+  margin-right: 45px;
+  color: white;
+}

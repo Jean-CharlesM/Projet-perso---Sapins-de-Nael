@@ -1,0 +1,41 @@
+.parap {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}
+
+.pic_tree_des {
+  margin-top: -20px;
+  margin-bottom: 20px;
+  width: 260px;
+}
+
+.descr {
+  font-family: 'Josefin Slab', serif;
+  margin: 20px 190px 20px 190px;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.button_tree {
+  width: 200px;
+  padding: 14px;
+  border-radius: 19px;
+  background-color: #E27575 ;
+  color: white;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+.exem {
+  color: white;
+}
+

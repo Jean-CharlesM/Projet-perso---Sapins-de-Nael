@@ -1,0 +1,84 @@
+.title_about {
+  font-family: 'Josefin Slab', serif;
+  text-align: center;
+  margin: 30px 20px;
+  font-weight: lighter;
+}
+
+
+p {
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  margin: 5px 190px 45px 190px;
+  line-height: 30px;
+  font-weight: lighter;
+  font-weight: 250;
+
+}
+
+.team {
+  width: 580px;
+  border-radius: 8px;
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+}
+  
+.epicea_pic {
+  width: 500px;
+  margin-left: 50px;
+}
+
+.tree_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-top: -30px;
+}
+
+.li_epicea{
+  text-align: justify;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  margin-right: 40px;
+  font-weight: 250;
+
+}
+
+.li_epicea > li {
+  margin: 20px;
+  line-height: 25px;
+  font-weight: 250;
+}
+
+.nordmann_pic {
+  width: 500px;
+  margin-right: 50px;
+}
+
+.li_nordmann{
+  text-align: justify;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  margin-left: 40px;
+  font-weight: 250;
+}
+
+.li_nordmann > li {
+  margin: 20px;
+  line-height: 25px;
+  font-weight: 250;
+}
+
+.help {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.detail_help {
+  line-height: 30px;
+  margin-top: -20px;
+  margin-bottom: 60px;
+}
