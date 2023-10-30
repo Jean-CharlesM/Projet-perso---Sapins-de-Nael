@@ -8,8 +8,8 @@ const Header = () => {
         <ul className="navbar">
           <NavLink to="/"> <span className='exem'>Accueil</span></NavLink>
           <NavLink to='/apropos'><span className='exem'>Qui sommes-nous ?</span></NavLink>
-          <NavLink to='/nossapins'><span className='exem'>Shop ton sapin !</span></NavLink>
-          <NavLink><span className='exem'>Contact</span></NavLink>
+          <NavLink to='/nossapins'><span className='exem'>Je réserve mon sapin</span></NavLink>
+          <NavLink to='/contact'><span className='exem'>Contact</span></NavLink>
         </ul>
     </div>
   )

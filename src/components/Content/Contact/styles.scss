@@ -1,0 +1,29 @@
+.title_contact {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+.form_contact {
+  font-family: 'Josefin Slab', serif; 
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  margin: 0px auto; 
+}
+
+.send {
+  width: 250px;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: #A21128 ;
+  color: white;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 60px;
+}

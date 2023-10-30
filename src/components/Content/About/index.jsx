@@ -14,7 +14,7 @@ const About = () => {
       
       <div className='tree_section'>
         <img className='epicea_pic' src="../../../public/pictures/epicea.png" alt="Photo épicéa" />
-        <ul className='li_epicea'> Epicéa
+        <ul className='li_epicea'> <span className='title_tree'>Epicéa</span>
           <li>Aspect : L'épicéa a des aiguilles pointues et raides qui sont généralement vert foncé sur le dessus et bleu-vert sur le dessous. Les aiguilles sont attachées individuellement aux branches. </li>
           <li>Durée de conservation : Les épicéas ont tendance à perdre leurs aiguilles plus rapidement par rapport aux nordmanns, ce qui signifie qu'ils ont une durée de conservation plus courte une fois coupés.</li>
           <li>Parfum :  Les épicéas ont souvent un parfum plus fort par rapport aux nordmanns, ce qui peut être agréable pour certaines personnes mais dérangeant pour d'autres.</li>
@@ -22,7 +22,7 @@ const About = () => {
       </div>
 
       <div className='tree_section'>
-        <ul className='li_nordmann'> Nordmann
+        <ul className='li_nordmann'> <span className='title_tree'>Nordmann</span>
           <li>Aspect : Les nordmanns ont des aiguilles plus douces et plates, vert foncé et brillantes des deux côtés. Ces aiguilles sont attachées de manière plus étroite aux branches, ce qui donne au sapin un aspect plus dense et plus touffu. </li>
           <li>Durée de conservation : Les nordmanns ont tendance à conserver leurs aiguilles plus longtemps, même après avoir été coupés, ce qui en fait un choix populaire pour ceux qui veulent un arbre de Noël qui dure longtemps.</li>
           <li>Parfum : Comparé aux épicéas, les nordmanns ont un parfum plus doux et subtil, ce qui est préféré par de nombreuses personnes.</li>
